@@ -1,0 +1,35 @@
+Futura Handwritten (FuturaHandwritten.ttf, in this folder)
+by Billy Snyder (the upstream README credits "Bill Snyder")
+
+Tofu added this file on 2026-10-24. It records the terms the font is
+offered under, as published where it is downloaded from. The font file
+is unchanged.
+
+Source:  https://www.dafont.com/futurahandwritten.font
+         (the upstream README links to http://www.dafont.com/futurahandwritten.font,
+         which redirects there)
+Read:    2026-10-24, about 11:20 UTC
+
+Licence shown on that page: "100% Free"
+
+The author's note on that page, quoted in full:
+
+  Futura Handwritten follows the BASIC shape structure of one of my
+  personal favorite fonts, Futura Medium, but in a fun looking,
+  handwritten style. Great for comics and other cartoons. I actually use
+  this font for a webcomic that I created( www.pixelfailure.com ), if you
+  want to see it in action. :D
+
+  Feel free to use this font for anything you want. Crediting me would be
+  absolutely wonderful, but I can't expect everyone to do it, so it isn't
+  required.
+
+  If anything, at least send me a copy of the work when you use it. I love
+  seeing my fonts in action. :)
+
+The download on that page (https://dl.dafont.com/dl/?f=futurahandwritten)
+holds only FuturaHandwritten.ttf, with no readme or licence file. That file
+is byte for byte the one in this folder (SHA-256
+15cc7ec3af6ae564792ce94d16c10c7d48eea197470ecb40705de4949bc45465). The
+font's own name table gives "BillySnyderPixelfailurecom" as its copyright
+line and nothing more.
